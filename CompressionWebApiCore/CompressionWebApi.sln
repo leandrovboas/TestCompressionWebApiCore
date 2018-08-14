@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompressionWebApi", "CompressionWebApi\CompressionWebApi.csproj", "{8DA66F7C-1998-4DFE-A5B8-426678FFCD1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotCompressionWebApi", "NotCompressionWebApi\NotCompressionWebApi.csproj", "{56376351-D7B1-45E5-8022-126A907E618C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressionCommun", "CompressionCommun\CompressionCommun.csproj", "{4E24440C-30C1-4C65-A9E0-BF95E501DF2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA66F7C-1998-4DFE-A5B8-426678FFCD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA66F7C-1998-4DFE-A5B8-426678FFCD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA66F7C-1998-4DFE-A5B8-426678FFCD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA66F7C-1998-4DFE-A5B8-426678FFCD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56376351-D7B1-45E5-8022-126A907E618C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56376351-D7B1-45E5-8022-126A907E618C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56376351-D7B1-45E5-8022-126A907E618C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56376351-D7B1-45E5-8022-126A907E618C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E24440C-30C1-4C65-A9E0-BF95E501DF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E24440C-30C1-4C65-A9E0-BF95E501DF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E24440C-30C1-4C65-A9E0-BF95E501DF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E24440C-30C1-4C65-A9E0-BF95E501DF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34D79454-7480-4DE8-B90B-DD8283272EC7}
+	EndGlobalSection
+EndGlobal
